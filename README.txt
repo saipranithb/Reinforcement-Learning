@@ -15,4 +15,4 @@ grid_world_vi_better_tag.py - the same environment but with a bit of randomness 
 grid_world_td_sarsa.py - the environment where the agent implements Temporal Difference algorithm with an on-policy control algorithm called SARSA
 
 CONTACT
-saipranithbhagavatula@gmail.om
+saipranithbhagavatula@gmail.com
